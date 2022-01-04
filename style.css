@@ -25,8 +25,7 @@ section{
     color: white;
     padding: 10px 40px;
     font-weight: 700;
-    border-radius: 5px;
-    
+    border-radius: 5px;  
 }
 .top-banner{
     background-image: url(images/top-banner.png);
